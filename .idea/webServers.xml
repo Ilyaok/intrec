@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="134c9c5e-ce1f-4b61-ae88-18ad92da2ec9" name="ilya.spy-lab.ru" url="http://ilya.spy-lab.ru">
+        <fileTransfer host="ilya.spy-lab.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
