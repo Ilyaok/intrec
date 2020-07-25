@@ -24,10 +24,10 @@ foreach ($tests as $test) {
 <html xmlns="http://www.w3.org/1999/xhtml">
 <html>
 <head>
-    <title>Интерактивная карта рекрутмента test</title>
+    <title>Интерактивная карта рекрутмента</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=1f430c08-c22e-4f42-9364-8d755dc6df37" type="text/javascript"></script>
-  <code><script src="src/cluster_balloon_twoColumns.js?v=<?= filemtime(__DIR__ . '/src/cluster_balloon_twoColumns.js') ?>" type="text/javascript"></script></code>
+  <code><script src="src/intrec.js?v=<?= filemtime(__DIR__ . '/src/intrec.js') ?>" type="text/javascript"></script></code>
 	<style>
 		html, body { margin: 0; padding: 0; }
 		html, body, #map { width: 100%; height: 100%; }
